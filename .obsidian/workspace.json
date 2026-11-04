@@ -20,24 +20,23 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
-          }
-        ]
-      },
-      {
-        "id": "d24e8a6ca0dd35d1",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "5cdd836eb169035f",
+            "id": "1709000e073f462a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "to-learn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "to-learn"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "to-learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "to-learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "to-learn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,9 +203,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "ce7c776977f71b56",
+  "active": "1709000e073f462a",
   "lastOpenFiles": [
+    "Proxies/envoy/listener-and-filter-chains.md",
+    "Proxies/envoy/http1-vs-http2-configuration.md",
+    "to-learn.md",
     "README.md",
-    "Welcome.md"
+    "Proxies/envoy",
+    "Proxies",
+    "Welcome.md",
+    "Linux/Networking/TCP Flow Control vs Congestion Control.md",
+    "Linux/Process/zombie process V.S orphan process.md",
+    "Linux/Networking",
+    "Linux/Process",
+    "Programming/Golang/Array and Slice.md",
+    "Linux",
+    "Programming/Golang/array-and-slice.md",
+    "Programming/Golang",
+    "Programming"
   ]
 }
